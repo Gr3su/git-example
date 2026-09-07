@@ -1,3 +1,4 @@
+# Crêpes
 # Ingredients
  Original recipe (1X) yields 4 servings
 
@@ -35,3 +36,66 @@
 
 ## Step 4
     Serve hot. Enjoy!
+
+# Chicken Curry
+
+# Ingredients
+
+Original recipe (1X) yields 4 servings
+
+  -  3 tablespoons olive oil
+
+  -  1 small onion, chopped
+
+  -  2 cloves garlic, minced
+
+  -  3 tablespoons curry powder
+
+  -  1 teaspoon ground cinnamon
+
+  -  1 teaspoon paprika
+
+  -  1 bay leaf
+
+  -  ½ teaspoon grated fresh ginger root
+
+  -  ½ teaspoon white sugar
+
+  -  salt to taste
+
+  -  2 skinless, boneless chicken breast halves - cut into bite-size pieces
+
+  -  1 tablespoon tomato paste
+
+  -  1 cup plain yogurt
+
+  -  ¾ cup coconut milk
+
+  -  ½ lemon, juiced
+
+  -  ½ teaspoon cayenne pepper
+
+# Directions
+
+## Step 1
+    Heat olive oil in a skillet over medium heat. Sauté onion until lightly browned.
+    Diced onions being sauted in a skillet on a stove
+
+## Step 2
+
+    Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar, and salt. Continue stirring for 2 minutes.
+    Cooking Indian chicken curry with sauted spices and ingredients in a pan
+
+## Step 3
+
+    Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes.
+    Cooking chicken curry in a pan on a stovetop
+
+## Step 4
+
+    Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes.
+    A pot of Indian chicken curry with a wooden spoon on a stovetop
+
+## Step 5
+
+    Serve hot and enjoy! 
