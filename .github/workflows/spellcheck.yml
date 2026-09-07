@@ -17,3 +17,5 @@ jobs:
     # https://github.com/rojopolis/spellcheck-github-actions/tree/v0/
     - uses: rojopolis/spellcheck-github-actions@v0
       name: Spellcheck
+      with:
+        config_path: .spellcheck.yml
