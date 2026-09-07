@@ -1,14 +1,16 @@
-spellchecker: aspell
 matrix:
-- name: Text Files
-  aspell:
+  - name: Text Files
+    aspell:
       lang: en
-  dictionary:
-      add_words:
-        - rebase
-        - init
-        - git
-        - gfd
-  sources:
-  - "**/*.txt"
-  - "**/*.md"
+    dictionary:
+      wordcodes:
+        - en
+      encoding: utf-8
+    wordlist:
+      - rebase
+      - init
+      - git
+      - gfd
+    sources:
+      - "**/*.txt"
+      - "**/*.md"

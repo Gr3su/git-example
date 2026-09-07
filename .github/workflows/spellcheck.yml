@@ -15,7 +15,7 @@ jobs:
     # https://github.com/actions/checkout/tree/v3/
     - uses: actions/checkout@v3
     # https://github.com/rojopolis/spellcheck-github-actions/tree/v0/
-    - uses: rojopolis/spellcheck-github-actions@v0
-      name: Spellcheck
+    - name: Spellcheck
+      uses: rojopolis/spellcheck-github-actions@v0
       with:
         config_path: .spellcheck.yml
