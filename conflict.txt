@@ -1,5 +1,5 @@
 Round 1
-Me: scrissors Jan: paper
+Me: scissors Jan: paper
 Round 2
 Me: rock Jan: rock
 Round 3

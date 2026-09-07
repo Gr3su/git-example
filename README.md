@@ -1,7 +1,7 @@
 # git-example
 
-This the README for the advanced git Kurse example repository.
+This the file for the advanced git course example repository.
 
-In cookbook.md you'll find different recipes.
+In cookbook you'll find different recipes.
 
-conflict.txt is an example to provoke a merge conflict.
+conflict is an example to provoke a merge conflict.
