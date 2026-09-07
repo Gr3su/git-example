@@ -6,11 +6,8 @@ matrix:
       wordcodes:
         - en
       encoding: utf-8
-    wordlist:
-      - rebase
-      - init
-      - git
-      - gfd
+      wordlists:
+        - .wordlist.txt
     sources:
       - "**/*.txt"
       - "**/*.md"
