@@ -99,3 +99,49 @@ Original recipe (1X) yields 4 servings
 ## Step 5
 
     Serve hot and enjoy! 
+
+# Tofu irgendwas
+
+# Ingredients
+- Tofu: Use organic, non-GMO firm or extra firm tofu. Sub with white fish, shrimp, or chicken. 
+- Olive oil: Crisps the tofu and sautés the veggies.
+- Onion: Use red or yellow onion.
+- Garlic cloves: Roughly chopped.
+- Mushrooms: Use cremini, button, or shiitake. Can sub for more bell peppers or other veggies.
+- Red bell pepper: Thinly sliced or diced.
+- Large tomato: Diced with juices, or use 1 cup canned diced tomatoes with juices, or crushed tomatoes.
+- Sweet paprika: Or use regular paprika. Do not use smoked paprika.
+- Cayenne: Just a pinch, optional.
+- Coconut milk: Not tradional in Paprikash, but delicious! Feel free to sub with 1 cup sour cream (or vegan sour cream) and skip the vinegar. Or make a plant-based bechamel sauce. See notes.
+- Apple cider vinegar: Gives that signature tangy finish.
+- Fresh Italian parsley: Chopped, used in the recipe and as garnish.
+- Serve over Trumpet Pasta or other noodles, rice or pasta, or roasted cauliflower.
+
+
+# Directions - How to Make Paprikash
+
+# Step 1
+Start cooking pasta if you are using it.
+
+# Step 2
+Place the tofu on paper towels and lightly blot all sides; there is no need to press. Cut into ¾ inch slices, then bite-sized pieces.
+
+# Step 3
+In an extra-large skillet or braiser, heat the oil over medium heat. Sprinkle salt and fresh pepper on the oil itself and swirl. Carefully add the tofu. Season the top of the tofu with a generous pinch of salt. Let it get golden without moving it (it will naturally release itself from the pan as it forms a crust). Once golden, flip, and sear the other side, letting it get deeply golden. Move the tofu over to a plate.
+
+# Step 4
+To the same pan, add a little more oil if needed. Add the onion, garlic, mushrooms and bell pepper and saute until fragrant, about 6 minutes, lowering heat if need be.
+
+# Step 5
+Add the tomatoes and their juices, cook 3-4 minutes. Pour in the water, season with salt, black pepper,  paprika and cayenne, give a stir, cover, and simmer on low for 5 minutes; check, adding more water if it seems dry.
+
+# Step 6
+Once the tomatoes have broken down and the peppers are tender, add the coconut milk, stirring to incorporate. Add the vinegar and stir.
+
+Taste. It should be slightly salty (pasta will soak up this salt) and slightly tangy. Adjust salt and vinegar. If you like spice, add more cayenne to the pot to taste. The flavor should be nice and bold.
+creamy paprikash sauce simmering in pan.
+
+# Step 7
+Fold the tofu into the paprikash mixture and half of the fresh parsley (stems removed).
+
+Serve this over pasta, rice, or even roasted cauliflower! I like to top my pasta with a handful of baby spinach, then spoon the creamy tofu paprikash over it. Serve with additional fresh parsley. If you want a little spice, garnish with red pepper flakes.
