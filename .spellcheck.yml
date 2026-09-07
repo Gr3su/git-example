@@ -8,7 +8,7 @@ matrix:
         - rebase
         - init
         - git
+        - gfd
   sources:
   - "**/*.txt"
   - "**/*.md"
-  
